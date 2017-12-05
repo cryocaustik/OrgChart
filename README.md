@@ -9,8 +9,12 @@ An interactive html organization chart that can use external data to load and pl
 - [LESS - CSS Preprocessor that simplifies child styling](http://lesscss.org)
 
 
-## Example
+## Interactive Demo
+[Live Demo (rawgit)](https://cdn.rawgit.com/cryocaustik/OrgChart/master/index.html)
+
+## Examples
 ![char_example_image](./images/chart_example.png)
+
 
 ## Code examples
 ### html place holder
