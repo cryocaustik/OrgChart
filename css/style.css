@@ -1,0 +1,126 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #c7c7c7;
+  background-color: #c7c7c7;
+}
+#chart-container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background: #c7c7c7;
+  background-color: #c7c7c7;
+}
+.orgchart {
+  display: block;
+  margin: 0 auto;
+  background: #c7c7c7;
+  background-color: #c7c7c7;
+}
+.orgchart table tr td tr td {
+  padding: 2px 2px 2px 2px;
+}
+.green {
+  border-color: green !important;
+  border-style: solid !important;
+  border-radius: 3px;
+}
+.green .title {
+  background-color: green !important;
+}
+.green .content {
+  border-color: green !important;
+}
+.blue {
+  border-color: blue !important;
+  border-style: solid !important;
+  border-radius: 3px;
+}
+.blue .title {
+  background-color: blue !important;
+}
+.blue .content {
+  border-color: blue !important;
+}
+.yellow {
+  border-color: #b3a743 !important;
+  border-style: solid !important;
+  border-radius: 3px;
+}
+.yellow .title {
+  background-color: #b3a743 !important;
+}
+.yellow .content {
+  border-color: #b3a743 !important;
+}
+.orange {
+  border-color: #d35419 !important;
+  border-style: solid !important;
+  border-radius: 3px;
+}
+.orange .title {
+  background-color: #d35419 !important;
+}
+.orange .content {
+  border-color: #d35419 !important;
+}
+.red {
+  border-color: red !important;
+  border-style: solid !important;
+  border-radius: 3px;
+}
+.red .title {
+  background-color: red !important;
+}
+.red .content {
+  border-color: red !important;
+}
+.magenta {
+  border-color: magenta !important;
+  border-style: solid !important;
+  border-radius: 3px;
+}
+.magenta .title {
+  background-color: magenta !important;
+}
+.magenta .content {
+  border-color: magenta !important;
+}
+.purple {
+  border-color: purple !important;
+  border-style: solid !important;
+  border-radius: 3px;
+}
+.purple .title {
+  background-color: purple !important;
+}
+.purple .content {
+  border-color: purple !important;
+}
+.grey {
+  border-color: grey !important;
+  border-style: solid !important;
+  border-radius: 3px;
+}
+.grey .title {
+  background-color: grey !important;
+}
+.grey .content {
+  border-color: grey !important;
+}
+.black {
+  border-color: black !important;
+  border-style: solid !important;
+  border-radius: 3px;
+}
+.black .title {
+  background-color: black !important;
+}
+.black .content {
+  border-color: black !important;
+}
